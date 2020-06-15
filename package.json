@@ -1,5 +1,6 @@
 {
   "name": "draft-js-utils-monorepo",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "private": true,
   "workspaces": [
     "packages/*"
